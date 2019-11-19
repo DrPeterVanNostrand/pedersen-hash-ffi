@@ -1,0 +1,11 @@
+[package]
+name = "pedersen-hash-ffi"
+version = "0.1.0"
+authors = ["DrPeterVanNostrand <jnz@riseup.net>"]
+edition = "2018"
+
+[dependencies]
+bitvec = "0.5"
+ff = "0.5.0"
+fil-sapling-crypto = "0.2.0"
+paired = "0.16.0"
